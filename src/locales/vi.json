@@ -1,0 +1,17 @@
+{
+    "phien_ban_khong_khop": "Phiên bản Api không khớp.",
+    "error": "Vui lòng thử lại sau.",
+    "vui_long_nhap_email": "Vui lòng nhập email.",
+    "vui_long_nhap_mat_khau": "Vui lòng nhập mật khẩu.",
+    "dinh_dang_email_khong_chinh_xac": "Định dạng email không chính xác!",
+    "mat_khau_can_dai_it_nhat_8_ky_tu": "Mật khẩu cần dài ít nhất 8 ký tự.",
+    "mat_khau_phai_co_it_nhat_mot_ky_tu_viet_hoa": "Mật khẩu phải có ít nhất một ký tự viết hoa.",
+    "mat_khau_phai_co_it_nhat_mot_ky_tu_dac_biet": "Mật khẩu phải chứa ít nhất một ký tự đặc biệt.",
+    "mat_khau_phai_co_it_nhat_mot_so": "Mật khẩu phải có ít nhất một số.",
+    "tai_khoan_khong_ton_tai": "Tài khoản không tồn tại",
+    "mat_khau_khong_dung": "Mật khẩu không đúng",
+    "email_da_duoc_dang_ky": "Email đã được đăng ký",
+    "dang_ky_tao_khoan_thanh_cong": "Đăng ký tài khoản thành công",
+    "vui_long_nhat_ten_nguoi_dung": "Vui lòng nhập tên người dùng",
+    "dang_nhap_thanh_cong":"Đăng nhập thành công"
+}

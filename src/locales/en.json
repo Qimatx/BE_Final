@@ -1,0 +1,13 @@
+{
+	"phien_ban_khong_khop": "Api version mismatch.",
+	"error": "Please try again later.",
+	"vui_long_nhap_email": "Please enter your email.",
+	"vui_long_nhap_mat_khau": "Please enter your password.",
+	"dinh_dang_email_khong_chinh_xac": "Email format is not correct!",
+	"mat_khau_can_dai_it_nhat_8_ky_tu": "Password must be at least 8 characters.",
+	"dang_nhap_thanh_cong": "dang_nhap_thanh_cong",
+	"mat_khau_phai_co_it_nhat_mot_ky_tu_viet_hoa": "mat_khau_phai_co_it_nhat_mot_ky_tu_viet_hoa",
+	"mat_khau_phai_co_it_nhat_mot_ky_tu_dac_biet": "mat_khau_phai_co_it_nhat_mot_ky_tu_dac_biet",
+	"tai_khoan_khong_ton_tai": "tai_khoan_khong_ton_tai",
+	"mat_khau_khong_dung": "mat_khau_khong_dung"
+}
